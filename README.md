@@ -1,4 +1,4 @@
-his folder contains all the important code (functions, types of statistical analysis, grapths, etc) we came up with during our research in more or less chronological order. 
+This folder contains all the important code (functions, types of statistical analysis, grapths, etc) we came up with during our research in more or less chronological order. 
 
 
 1) Masting0 -- MASTREE PLAYGROUND.Rmd
